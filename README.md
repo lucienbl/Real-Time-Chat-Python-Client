@@ -1,4 +1,4 @@
-# Real-Time-Chat-Python-Front
+# Real-Time-Chat-Python-Client
 This is the front-end project for the python real-time chat.
 
 ## Requirements

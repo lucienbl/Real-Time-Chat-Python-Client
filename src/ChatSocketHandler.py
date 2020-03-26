@@ -9,5 +9,6 @@ class ChatSocketHandler(socketio.ClientNamespace):
     def on_disconnect(self):
         pass
 
-    def on_message_add(self, data):
+    @staticmethod
+    def on_message_add(data):
         print(str(data))
